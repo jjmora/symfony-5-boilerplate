@@ -20,3 +20,15 @@ Dependencies Installed:
 Database Config:
 
   * DATABASE_URL="mysql://root@127.0.0.1:3306/symfony-5-boilerplate?serverVersion=mariadb-10.4.11&charset=utf8mb4"
+
+
+## ApiPlatform Branch
+
+  Dependencies Installed:
+
+    * api
+
+  Entity for testing:
+
+    * Product Entity created
+    * Acces to /api
